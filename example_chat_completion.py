@@ -69,7 +69,7 @@ def main(
         [
             {
                 "role": "user",
-                "content": """Get product name, size, color, address, phone number from this conversation:
+                "content": """Get product name, size, color, address, phone number, user intent at vietnamese from this conversation:
 ```
 e ơi
 Chào chị, em có thể giúp chị với điều gì ạ?
